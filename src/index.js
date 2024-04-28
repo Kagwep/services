@@ -206,7 +206,7 @@ const interval = setInterval(async () => {
         }
     }
 
-}, 1 * 60 * 1000); // 10 minutes in milliseconds
+}, 5 * 60 * 1000); // 10 minutes in milliseconds
 
 // Run the fetchDataAndGenerateHTML immediately (optional)
 fetchData();
